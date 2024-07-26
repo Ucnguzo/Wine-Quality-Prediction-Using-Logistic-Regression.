@@ -2,3 +2,5 @@ The objective of this project was to build a predictive model to classify the qu
 Challenges: Smaller dataset and potential imbalance.
 Solution: Train and evaluate a Logistic Regression model.
 
+Source of Dataset: [Kaggle.com](https://www.kaggle.com/datasets/khushirakheja/wine-quality-prediction-using-logistic-regression/data)
+
